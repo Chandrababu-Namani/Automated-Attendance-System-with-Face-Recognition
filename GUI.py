@@ -3,7 +3,7 @@ from tkinter import ttk, messagebox
 import csv
 import os
 from PIL import Image, ImageTk
-from capture import record
+from Capture import record
 import time
 
 name_dict = {
