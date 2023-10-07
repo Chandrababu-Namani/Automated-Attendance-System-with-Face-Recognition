@@ -10,7 +10,7 @@ def record():
     faces_encodings = []
 
     # Get the details of trained encodings from the file: 'encodings.json'
-    with open('encodings.json', 'r') as file:
+    with open('Training: Findings encodings/encodings.json', 'r') as file:
         faces_encodings = json.load(file)
     faces_encodings = [np.array(encoding) for encoding in faces_encodings]
     
