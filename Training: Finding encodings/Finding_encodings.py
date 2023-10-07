@@ -20,7 +20,7 @@ def compute_face_encodings(images):
             encodings.append(face_encoding[0])
     return encodings
 
-folder_path = 'path_to_folder_with_images'  # Replace with the path to your image folder
+folder_path = '/faces/'  # Replace with the path to your image folder
 images = load_images_from_folder(folder_path)
 encodings = compute_face_encodings(images)
 encodings = [encoding.tolist() for encoding in encodings]
