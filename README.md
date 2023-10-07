@@ -39,6 +39,8 @@ The "Automated Attendance System with Face Recognition" is a sophisticated proje
 ![Alt text](https://github.com/Chandrababu-Namani/Attendance-Recording-System-using-Face-Recognition/blob/main/GUI/Face%20found.png)
 # Attendance marked
 ![Alt text](https://github.com/Chandrababu-Namani/Attendance-Recording-System-using-Face-Recognition/blob/main/GUI/Attendance%20marked.png)
+# Trying to re-take the Attendance
+![Alt text](https://github.com/Chandrababu-Namani/Attendance-Recording-System-using-Face-Recognition/blob/main/GUI/recorded%20user.png)
 # Error
 ![Alt text](https://github.com/Chandrababu-Namani/Attendance-Recording-System-using-Face-Recognition/blob/main/GUI/Error.png)
 
@@ -66,4 +68,6 @@ The "Automated Attendance System with Face Recognition" is a sophisticated proje
 
 4. Run the project using `python GUI.py`.
 
+## Author
+- [Chandrababu Namani](https://github.com/Chandrababu-Namani)
 
